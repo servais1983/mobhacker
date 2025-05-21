@@ -1,0 +1,1 @@
+# Ce fichier est nécessaire pour que Python traite le répertoire core comme un package
