@@ -1,0 +1,6 @@
+name: Scan sécurité APK
+apk: app-debug.apk
+steps:
+  - analyze
+  - decompile
+  - check
